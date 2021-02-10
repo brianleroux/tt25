@@ -2,4 +2,3 @@
 begin-app
 
 @static
-@http
